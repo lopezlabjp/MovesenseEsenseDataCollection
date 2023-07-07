@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DataCollection</string>
+    <string name="scan_start_button">デバイスを探す</string>
+    <string name="movesense">Movesense</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="write_external_storage_permission_title">Write External Storage Permission</string>
+    <string name="write_external_storage_permission_text">Saving files required Write External Storage Permission</string>
+    <string name="btn_ok">OK</string>
+    <string name="permission_instruction">アプリに必要な権限を許可して下さい。</string>
+    <string name="take_video">Take video: </string>
+    <string name="id">ID</string>
+    <string name="plus_one">+ 1</string>
+    <string name="minus_one">- 1</string>
+    <string name="user_id">User ID:</string>
+    <string name="sample_rate">Sample rate: </string>
+    <string name="hz">Hz</string>
+    <string name="menu_list_options_files_list">ファイルリスト</string>
+    <string name="dialog_title">ファイルの削除確認</string>
+    <string name="dialog_btn_delete">削除</string>
+    <string name="dialog_btn_cancel">キャンセル</string>
+
+    <string-array name="sample_rate_array">
+        <item>13</item>
+        <item>26</item>
+        <item>52</item>
+        <item>102</item>
+        <item>200</item>
+    </string-array>
+</resources>
